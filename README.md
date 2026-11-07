@@ -1,3 +1,2 @@
 # My project
 This is my first Git project using the VS code
-? why not asking me
